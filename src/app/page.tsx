@@ -80,11 +80,11 @@ export default function LandingPage() {
           features={[
             {
               id: 1,
-              tag: "E-Commerce",              title: "Global Fashion Brand",              subtitle: "Redesigned digital storefront",              description: "We transformed a struggling online presence into a high-converting platform that increased sales by 245%. Our redesign focused on user experience, mobile optimization, and seamless checkout.",              imageSrc: "http://img.b2bpic.net/free-vector/gradient-ui-ux-landing-page-template_23-2149061052.jpg",              imageAlt: "E-commerce website redesign"
+              tag: "E-Commerce",              title: "Global Fashion Brand",              subtitle: "Redesigned digital storefront",              description: "We transformed a struggling online presence into a high-converting platform that increased sales by 245%. Our redesign focused on user experience, mobile optimization, and seamless checkout.",              imageSrc: "http://img.b2bpic.net/free-vector/gradient-ui-ux-landing-page-template_23-2149061052.jpg?_wi=1",              imageAlt: "E-commerce website redesign"
             },
             {
               id: 2,
-              tag: "SaaS Platform",              title: "Analytics Dashboard",              subtitle: "Complex data visualization",              description: "Built a sophisticated analytics platform that empowers businesses to understand customer behavior. The intuitive interface transformed raw data into actionable insights for over 5,000 users.",              imageSrc: "http://img.b2bpic.net/free-vector/beauty-salon-booking-app_52683-40853.jpg",              imageAlt: "SaaS analytics dashboard"
+              tag: "SaaS Platform",              title: "Analytics Dashboard",              subtitle: "Complex data visualization",              description: "Built a sophisticated analytics platform that empowers businesses to understand customer behavior. The intuitive interface transformed raw data into actionable insights for over 5,000 users.",              imageSrc: "http://img.b2bpic.net/free-vector/beauty-salon-booking-app_52683-40853.jpg?_wi=1",              imageAlt: "SaaS analytics dashboard"
             }
           ]}
           title="Our Portfolio"
@@ -216,15 +216,15 @@ export default function LandingPage() {
           features={[
             {
               id: 1,
-              tag: "Web Design",              title: "User Experience Design",              subtitle: "Digital experiences that delight",              description: "We create beautiful, intuitive interfaces that users love. Every pixel is purposeful, every interaction is smooth, and every design is rooted in user research and best practices.",              imageSrc: "http://img.b2bpic.net/free-vector/gradient-ui-ux-landing-page-template_23-2149061052.jpg",              imageAlt: "Web design services"
+              tag: "Web Design",              title: "User Experience Design",              subtitle: "Digital experiences that delight",              description: "We create beautiful, intuitive interfaces that users love. Every pixel is purposeful, every interaction is smooth, and every design is rooted in user research and best practices.",              imageSrc: "http://img.b2bpic.net/free-vector/gradient-ui-ux-landing-page-template_23-2149061052.jpg?_wi=2",              imageAlt: "Web design services"
             },
             {
               id: 2,
-              tag: "Development",              title: "Full-Stack Development",              subtitle: "Powerful technology behind beautiful design",              description: "Our developers build scalable, performant applications using modern technologies. From responsive websites to complex web applications, we bring designs to life with clean, maintainable code.",              imageSrc: "http://img.b2bpic.net/free-vector/beauty-salon-booking-app_52683-40853.jpg",              imageAlt: "Development services"
+              tag: "Development",              title: "Full-Stack Development",              subtitle: "Powerful technology behind beautiful design",              description: "Our developers build scalable, performant applications using modern technologies. From responsive websites to complex web applications, we bring designs to life with clean, maintainable code.",              imageSrc: "http://img.b2bpic.net/free-vector/beauty-salon-booking-app_52683-40853.jpg?_wi=2",              imageAlt: "Development services"
             },
             {
               id: 3,
-              tag: "Strategy",              title: "Digital Strategy",              subtitle: "Align design with business goals",              description: "We don't just create beautiful designs—we create strategic solutions. Our team conducts thorough research, defines clear KPIs, and ensures every project drives measurable business results.",              imageSrc: "http://img.b2bpic.net/free-vector/gradient-ui-ux-landing-page-template_23-2149061052.jpg",              imageAlt: "Strategy services"
+              tag: "Strategy",              title: "Digital Strategy",              subtitle: "Align design with business goals",              description: "We don't just create beautiful designs—we create strategic solutions. Our team conducts thorough research, defines clear KPIs, and ensures every project drives measurable business results.",              imageSrc: "http://img.b2bpic.net/free-vector/gradient-ui-ux-landing-page-template_23-2149061052.jpg?_wi=3",              imageAlt: "Strategy services"
             }
           ]}
           title="Our Services"

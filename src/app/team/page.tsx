@@ -40,37 +40,37 @@ export default function TeamPage() {
         <TeamCardTwo
           members={[
             {
-              id: "1",              name: "Alisa Hester",              role: "Founder & CEO",              description: "Former co-founder of Opendoor. Early staff at Spotify and Clearbit. Passionate about building world-class teams and creating products that change industries.",              imageSrc: "http://img.b2bpic.net/free-photo/senior-businessman-outside-modern-office-building_1139-1076.jpg",              imageAlt: "Alisa Hester",              socialLinks: [
+              id: "1",              name: "Alisa Hester",              role: "Founder & CEO",              description: "Former co-founder of Opendoor. Early staff at Spotify and Clearbit. Passionate about building world-class teams and creating products that change industries.",              imageSrc: "http://img.b2bpic.net/free-photo/senior-businessman-outside-modern-office-building_1139-1076.jpg?_wi=3",              imageAlt: "Alisa Hester",              socialLinks: [
                 { icon: Twitter, url: "https://twitter.com" },
                 { icon: Linkedin, url: "https://linkedin.com" }
               ]
             },
             {
-              id: "2",              name: "Marcus Chen",              role: "Head of Design",              description: "Creative director with 12+ years experience. Led design at multiple startups from seed to Series B. Believes great design is invisible—it just works.",              imageSrc: "http://img.b2bpic.net/free-photo/businesswoman-happy-be-back-work_23-2148727621.jpg",              imageAlt: "Marcus Chen",              socialLinks: [
+              id: "2",              name: "Marcus Chen",              role: "Head of Design",              description: "Creative director with 12+ years experience. Led design at multiple startups from seed to Series B. Believes great design is invisible—it just works.",              imageSrc: "http://img.b2bpic.net/free-photo/businesswoman-happy-be-back-work_23-2148727621.jpg?_wi=3",              imageAlt: "Marcus Chen",              socialLinks: [
                 { icon: Twitter, url: "https://twitter.com" },
                 { icon: Linkedin, url: "https://linkedin.com" }
               ]
             },
             {
-              id: "3",              name: "Jessica Rodriguez",              role: "Lead Developer",              description: "Full-stack engineer passionate about scalable architecture and clean code. Built systems that serve millions. Coffee enthusiast.",              imageSrc: "http://img.b2bpic.net/free-photo/stylish-businessman-with-arms-crossed_23-2147708158.jpg",              imageAlt: "Jessica Rodriguez",              socialLinks: [
+              id: "3",              name: "Jessica Rodriguez",              role: "Lead Developer",              description: "Full-stack engineer passionate about scalable architecture and clean code. Built systems that serve millions. Coffee enthusiast.",              imageSrc: "http://img.b2bpic.net/free-photo/stylish-businessman-with-arms-crossed_23-2147708158.jpg?_wi=3",              imageAlt: "Jessica Rodriguez",              socialLinks: [
                 { icon: Github, url: "https://github.com" },
                 { icon: Linkedin, url: "https://linkedin.com" }
               ]
             },
             {
-              id: "4",              name: "Amanda Foster",              role: "Strategy Director",              description: "Business strategist focused on aligning design with measurable outcomes. 10+ years helping companies scale through strategic thinking.",              imageSrc: "http://img.b2bpic.net/free-photo/smiling-businesswoman-holding-digital-tablet_1262-5758.jpg",              imageAlt: "Amanda Foster",              socialLinks: [
+              id: "4",              name: "Amanda Foster",              role: "Strategy Director",              description: "Business strategist focused on aligning design with measurable outcomes. 10+ years helping companies scale through strategic thinking.",              imageSrc: "http://img.b2bpic.net/free-photo/smiling-businesswoman-holding-digital-tablet_1262-5758.jpg?_wi=3",              imageAlt: "Amanda Foster",              socialLinks: [
                 { icon: Twitter, url: "https://twitter.com" },
                 { icon: Linkedin, url: "https://linkedin.com" }
               ]
             },
             {
-              id: "5",              name: "David Kim",              role: "UX Researcher",              description: "User research specialist who believes every design decision should be backed by data. Makes people feel heard and understood.",              imageSrc: "http://img.b2bpic.net/free-photo/senior-businessman-outside-modern-office-building_1139-1076.jpg",              imageAlt: "David Kim",              socialLinks: [
+              id: "5",              name: "David Kim",              role: "UX Researcher",              description: "User research specialist who believes every design decision should be backed by data. Makes people feel heard and understood.",              imageSrc: "http://img.b2bpic.net/free-photo/senior-businessman-outside-modern-office-building_1139-1076.jpg?_wi=4",              imageAlt: "David Kim",              socialLinks: [
                 { icon: Twitter, url: "https://twitter.com" },
                 { icon: Linkedin, url: "https://linkedin.com" }
               ]
             },
             {
-              id: "6",              name: "Sofia Mendez",              role: "Project Manager",              description: "Project manager keeping everything on track and teams aligned. Obsessed with clear communication and on-time delivery.",              imageSrc: "http://img.b2bpic.net/free-photo/businesswoman-happy-be-back-work_23-2148727621.jpg",              imageAlt: "Sofia Mendez",              socialLinks: [
+              id: "6",              name: "Sofia Mendez",              role: "Project Manager",              description: "Project manager keeping everything on track and teams aligned. Obsessed with clear communication and on-time delivery.",              imageSrc: "http://img.b2bpic.net/free-photo/businesswoman-happy-be-back-work_23-2148727621.jpg?_wi=4",              imageAlt: "Sofia Mendez",              socialLinks: [
                 { icon: Twitter, url: "https://twitter.com" },
                 { icon: Linkedin, url: "https://linkedin.com" }
               ]

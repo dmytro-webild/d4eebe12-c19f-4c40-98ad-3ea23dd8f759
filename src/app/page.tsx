@@ -28,7 +28,7 @@ export default function LandingPage() {
     >
       <div id="nav" data-section="nav">
         <NavbarLayoutFloatingInline
-          brandName="Kreative"
+          brandName="MaxDigital"
           navItems={[
             { name: "Work", id: "work" },
             { name: "About", id: "about" },
@@ -188,16 +188,16 @@ export default function LandingPage() {
         <TestimonialCardFive
           testimonials={[
             {
-              id: "1",              name: "Sarah Mitchell, CEO at TechFlow",              date: "Date: 14 January 2025",              title: "They transformed our vision into reality",              quote: "Working with Kreative was a game-changer for our startup. From initial concept to launch, they understood our goals and delivered a product that exceeded our expectations. Their team is collaborative, responsive, and genuinely invested in our success.",              tag: "SaaS Startup",              avatarSrc: "http://img.b2bpic.net/free-photo/senior-businessman-outside-modern-office-building_1139-1076.jpg",              avatarAlt: "Sarah Mitchell CEO",              imageSrc: "http://img.b2bpic.net/free-photo/senior-businessman-outside-modern-office-building_1139-1076.jpg",              imageAlt: "Sarah Mitchell CEO"
+              id: "1",              name: "Sarah Mitchell, CEO at TechFlow",              date: "Date: 14 January 2025",              title: "They transformed our vision into reality",              quote: "Working with MaxDigital was a game-changer for our startup. From initial concept to launch, they understood our goals and delivered a product that exceeded our expectations. Their team is collaborative, responsive, and genuinely invested in our success.",              tag: "SaaS Startup",              avatarSrc: "http://img.b2bpic.net/free-photo/senior-businessman-outside-modern-office-building_1139-1076.jpg",              avatarAlt: "Sarah Mitchell CEO",              imageSrc: "http://img.b2bpic.net/free-photo/senior-businessman-outside-modern-office-building_1139-1076.jpg",              imageAlt: "Sarah Mitchell CEO"
             },
             {
-              id: "2",              name: "Marcus Chen, Director of Marketing at BrandCo",              date: "Date: 08 December 2024",              title: "Results that speak for themselves",              quote: "Our website redesign resulted in a 340% increase in qualified leads. The Kreative team combined stunning design with strategic thinking to create an experience that truly resonates with our audience. Highly recommended.",              tag: "E-Commerce",              avatarSrc: "http://img.b2bpic.net/free-photo/businesswoman-happy-be-back-work_23-2148727621.jpg",              avatarAlt: "Marcus Chen Director",              imageSrc: "http://img.b2bpic.net/free-photo/businesswoman-happy-be-back-work_23-2148727621.jpg",              imageAlt: "Marcus Chen Director"
+              id: "2",              name: "Marcus Chen, Director of Marketing at BrandCo",              date: "Date: 08 December 2024",              title: "Results that speak for themselves",              quote: "Our website redesign resulted in a 340% increase in qualified leads. The MaxDigital team combined stunning design with strategic thinking to create an experience that truly resonates with our audience. Highly recommended.",              tag: "E-Commerce",              avatarSrc: "http://img.b2bpic.net/free-photo/businesswoman-happy-be-back-work_23-2148727621.jpg",              avatarAlt: "Marcus Chen Director",              imageSrc: "http://img.b2bpic.net/free-photo/businesswoman-happy-be-back-work_23-2148727621.jpg",              imageAlt: "Marcus Chen Director"
             },
             {
-              id: "3",              name: "Jessica Rodriguez, Founder at Creative Agency Group",              date: "Date: 22 November 2024",              title: "Partners who truly care",              quote: "From the first consultation to the final launch, Kreative demonstrated exceptional attention to detail and creative problem-solving. They became an extension of our team. The entire experience was seamless and the results were outstanding.",              tag: "Digital Agency",              avatarSrc: "http://img.b2bpic.net/free-photo/stylish-businessman-with-arms-crossed_23-2147708158.jpg",              avatarAlt: "Jessica Rodriguez Founder",              imageSrc: "http://img.b2bpic.net/free-photo/stylish-businessman-with-arms-crossed_23-2147708158.jpg",              imageAlt: "Jessica Rodriguez Founder"
+              id: "3",              name: "Jessica Rodriguez, Founder at Creative Agency Group",              date: "Date: 22 November 2024",              title: "Partners who truly care",              quote: "From the first consultation to the final launch, MaxDigital demonstrated exceptional attention to detail and creative problem-solving. They became an extension of our team. The entire experience was seamless and the results were outstanding.",              tag: "Digital Agency",              avatarSrc: "http://img.b2bpic.net/free-photo/stylish-businessman-with-arms-crossed_23-2147708158.jpg",              avatarAlt: "Jessica Rodriguez Founder",              imageSrc: "http://img.b2bpic.net/free-photo/stylish-businessman-with-arms-crossed_23-2147708158.jpg",              imageAlt: "Jessica Rodriguez Founder"
             },
             {
-              id: "4",              name: "Amanda Foster, VP of Product at GlobalTech",              date: "Date: 15 October 2024",              title: "Innovation meets execution",              quote: "We needed a partner who could handle complexity while maintaining visual elegance. Kreative delivered exactly that. Their process is thorough, their team is talented, and their commitment to quality is unmatched. We're excited to continue working together.",              tag: "Enterprise",              avatarSrc: "http://img.b2bpic.net/free-photo/smiling-businesswoman-holding-digital-tablet_1262-5758.jpg",              avatarAlt: "Amanda Foster VP",              imageSrc: "http://img.b2bpic.net/free-photo/smiling-businesswoman-holding-digital-tablet_1262-5758.jpg",              imageAlt: "Amanda Foster VP"
+              id: "4",              name: "Amanda Foster, VP of Product at GlobalTech",              date: "Date: 15 October 2024",              title: "Innovation meets execution",              quote: "We needed a partner who could handle complexity while maintaining visual elegance. MaxDigital delivered exactly that. Their process is thorough, their team is talented, and their commitment to quality is unmatched. We're excited to continue working together.",              tag: "Enterprise",              avatarSrc: "http://img.b2bpic.net/free-photo/smiling-businesswoman-holding-digital-tablet_1262-5758.jpg",              avatarAlt: "Amanda Foster VP",              imageSrc: "http://img.b2bpic.net/free-photo/smiling-businesswoman-holding-digital-tablet_1262-5758.jpg",              imageAlt: "Amanda Foster VP"
             }
           ]}
           title="What Our Clients Say"
@@ -245,7 +245,7 @@ export default function LandingPage() {
           background={{ variant: "plain" }}
           useInvertedBackground={false}
           buttons={[
-            { text: "Get In Touch", href: "mailto:hello@kreative.com" },
+            { text: "Get In Touch", href: "mailto:hello@maxdigital.com" },
             { text: "Schedule Call", href: "#" }
           ]}
         />
@@ -253,8 +253,8 @@ export default function LandingPage() {
 
       <div id="footer" data-section="footer">
         <FooterCard
-          logoText="Kreative"
-          copyrightText="© 2025 Kreative. All rights reserved. | Crafting digital excellence."
+          logoText="MaxDigital"
+          copyrightText="© 2025 MaxDigital. All rights reserved. | Crafting digital excellence."
           socialLinks={[
             { icon: Twitter, href: "https://twitter.com", ariaLabel: "Twitter" },
             { icon: Linkedin, href: "https://linkedin.com", ariaLabel: "LinkedIn" },

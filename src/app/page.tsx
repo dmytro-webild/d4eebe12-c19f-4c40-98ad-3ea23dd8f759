@@ -190,7 +190,7 @@ export default function LandingPage() {
         <TeamCardTwo
           members={[
             {
-              id: "1",              name: "Alisa Hester",              role: "Founder & CEO",              description: "Former co-founder of Opendoor. Early staff at Spotify and Clearbit.",              imageSrc: "http://img.b2bpic.net/free-photo/senior-businessman-outside-modern-office-building_1139-1076.jpg?_wi=1",              imageAlt: "Alisa Hester",              socialLinks: [
+              id: "1",              name: "Alisa Hester",              role: "Founder & CEO",              description: "Former co-founder of Opendoor. Early staff at Spotify and Clearbit.",              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3ApTXhqfncLkMcGI7sOP1tda8U1/uploaded-1773290443039-4rlee41p.png",              imageAlt: "Alisa Hester",              socialLinks: [
                 { icon: Twitter, url: "https://twitter.com" },
                 { icon: Linkedin, url: "https://linkedin.com" }
               ]

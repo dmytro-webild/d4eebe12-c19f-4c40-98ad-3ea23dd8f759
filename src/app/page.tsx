@@ -10,6 +10,7 @@ import MetricCardOne from "@/components/sections/metrics/MetricCardOne";
 import TestimonialCardFive from "@/components/sections/testimonial/TestimonialCardFive";
 import ContactText from "@/components/sections/contact/ContactText";
 import FooterCard from "@/components/sections/footer/FooterCard";
+import TeamCardTwo from "@/components/sections/team/TeamCardTwo";
 import { Award, BarChart3, Briefcase, Check, CheckCircle, Code, Database, Eye, Github, Instagram, Lightbulb, Linkedin, Palette, Rocket, Target, ThumbsUp, TrendingUp, Twitter, Users, Zap } from "lucide-react";
 
 export default function LandingPage() {
@@ -32,6 +33,7 @@ export default function LandingPage() {
           navItems={[
             { name: "Work", id: "work" },
             { name: "About", id: "about" },
+            { name: "Team", id: "team" },
             { name: "Services", id: "services" },
             { name: "Contact", id: "contact" }
           ]}
@@ -181,6 +183,47 @@ export default function LandingPage() {
           animationType="slide-up"
           textboxLayout="default"
           useInvertedBackground={false}
+        />
+      </div>
+
+      <div id="team" data-section="team">
+        <TeamCardTwo
+          members={[
+            {
+              id: "1",              name: "Alisa Hester",              role: "Founder & CEO",              description: "Former co-founder of Opendoor. Early staff at Spotify and Clearbit.",              imageSrc: "http://img.b2bpic.net/free-photo/senior-businessman-outside-modern-office-building_1139-1076.jpg",              imageAlt: "Alisa Hester",              socialLinks: [
+                { icon: Twitter, url: "https://twitter.com" },
+                { icon: Linkedin, url: "https://linkedin.com" }
+              ]
+            },
+            {
+              id: "2",              name: "Marcus Chen",              role: "Head of Design",              description: "Creative director with 12+ years experience. Led design at multiple startups.",              imageSrc: "http://img.b2bpic.net/free-photo/businesswoman-happy-be-back-work_23-2148727621.jpg",              imageAlt: "Marcus Chen",              socialLinks: [
+                { icon: Twitter, url: "https://twitter.com" },
+                { icon: Linkedin, url: "https://linkedin.com" }
+              ]
+            },
+            {
+              id: "3",              name: "Jessica Rodriguez",              role: "Lead Developer",              description: "Full-stack engineer passionate about scalable architecture and clean code.",              imageSrc: "http://img.b2bpic.net/free-photo/stylish-businessman-with-arms-crossed_23-2147708158.jpg",              imageAlt: "Jessica Rodriguez",              socialLinks: [
+                { icon: Github, url: "https://github.com" },
+                { icon: Linkedin, url: "https://linkedin.com" }
+              ]
+            },
+            {
+              id: "4",              name: "Amanda Foster",              role: "Strategy Director",              description: "Business strategist focused on aligning design with measurable outcomes.",              imageSrc: "http://img.b2bpic.net/free-photo/smiling-businesswoman-holding-digital-tablet_1262-5758.jpg",              imageAlt: "Amanda Foster",              socialLinks: [
+                { icon: Twitter, url: "https://twitter.com" },
+                { icon: Linkedin, url: "https://linkedin.com" }
+              ]
+            }
+          ]}
+          title="Meet Our Team"
+          description="The talented people behind our success."
+          tag="Team"
+          gridVariant="uniform-all-items-equal"
+          animationType="slide-up"
+          textboxLayout="default"
+          useInvertedBackground={false}
+          buttons={[
+            { text: "Join Our Team", href: "#contact" }
+          ]}
         />
       </div>
 

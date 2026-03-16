@@ -50,7 +50,7 @@ export default function LandingPage() {
           kpis={[
             { value: "500+", label: "Projects Delivered" },
             { value: "98%", label: "Client Satisfaction" },
-            { value: "15+", label: "Years Experience" }
+            { value: "2+", label: "Years Experience" }
           ]}
           enableKpiAnimation={true}
           imageSrc="http://img.b2bpic.net/free-photo/group-creative-people-analyzing-result-work_329181-15506.jpg"

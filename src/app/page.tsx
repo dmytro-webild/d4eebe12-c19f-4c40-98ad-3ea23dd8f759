@@ -208,7 +208,7 @@ export default function LandingPage() {
               ]
             },
             {
-              id: "4",              name: "Amanda Foster",              role: "Strategy Director",              description: "Business strategist focused on aligning design with measurable outcomes.",              imageSrc: "http://img.b2bpic.net/free-photo/smiling-businesswoman-holding-digital-tablet_1262-5758.jpg?_wi=1",              imageAlt: "Amanda Foster",              socialLinks: [
+              id: "4",              name: "Morgan Rivera",              role: "Strategy Director",              description: "Morgan helps businesses get more traffic online through SEO and digital marketing strategies.",              imageSrc: "http://img.b2bpic.net/free-photo/smiling-businesswoman-holding-digital-tablet_1262-5758.jpg?_wi=1",              imageAlt: "Morgan Rivera",              socialLinks: [
                 { icon: Twitter, url: "https://twitter.com" },
                 { icon: Linkedin, url: "https://linkedin.com" }
               ]

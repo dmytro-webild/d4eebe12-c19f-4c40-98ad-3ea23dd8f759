@@ -196,7 +196,7 @@ export default function LandingPage() {
               ]
             },
             {
-              id: "2",              name: "Marcus Chen",              role: "Head of Design",              description: "Creative director with 12+ years experience. Led design at multiple startups.",              imageSrc: "http://img.b2bpic.net/free-photo/businesswoman-happy-be-back-work_23-2148727621.jpg?_wi=1",              imageAlt: "Marcus Chen",              socialLinks: [
+              id: "2",              name: "Jordan Lee",              role: "Head of Design",              description: "Jordan designs clean and modern websites focused on user experience and visual appeal.",              imageSrc: "http://img.b2bpic.net/free-photo/businesswoman-happy-be-back-work_23-2148727621.jpg?_wi=1",              imageAlt: "Jordan Lee",              socialLinks: [
                 { icon: Twitter, url: "https://twitter.com" },
                 { icon: Linkedin, url: "https://linkedin.com" }
               ]

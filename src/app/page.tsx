@@ -190,7 +190,7 @@ export default function LandingPage() {
         <TeamCardTwo
           members={[
             {
-              id: "1",              name: "Max Aguila ",              role: "Founder & CEO",              description: "Max founded MaxDigital to help small businesses build modern websites that attract customers and grow their brand online. With a passion for design and technology, Max leads the company’s strategy and client experience.",              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3ApTXhqfncLkMcGI7sOP1tda8U1/uploaded-1773290443039-4rlee41p.png",              imageAlt: "Max Aguila ",              socialLinks: [
+              id: "1",              name: "Max Aguila ",              role: "Founder & CEO",              description: "Max founded MaxDigital to help small businesses build modern websites that attract customers and grow their brand online. Max leads the company’s strategy and client experience.",              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3ApTXhqfncLkMcGI7sOP1tda8U1/uploaded-1773290443039-4rlee41p.png",              imageAlt: "Max Aguila ",              socialLinks: [
                 { icon: Twitter, url: "https://twitter.com" },
                 { icon: Linkedin, url: "https://linkedin.com" }
               ]

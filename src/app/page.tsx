@@ -196,19 +196,19 @@ export default function LandingPage() {
               ]
             },
             {
-              id: "2",              name: "Jordan Lee",              role: "Head of Design",              description: "Jordan designs clean and modern websites focused on user experience and visual appeal.",              imageSrc: "http://img.b2bpic.net/free-photo/businesswoman-happy-be-back-work_23-2148727621.jpg?_wi=1",              imageAlt: "Jordan Lee",              socialLinks: [
+              id: "2",              name: "Jordan Lee",              role: "Head of Design",              description: "Jordan designs clean and modern websites focused on user experience and visual appeal.",              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3ApTXhqfncLkMcGI7sOP1tda8U1/uploaded-1773625728000-9ncytndd.jpg",              imageAlt: "Jordan Lee",              socialLinks: [
                 { icon: Twitter, url: "https://twitter.com" },
                 { icon: Linkedin, url: "https://linkedin.com" }
               ]
             },
             {
-              id: "3",              name: "Taylor Nguyen",              role: "Lead Developer",              description: "Taylor builds fast, responsive websites that work smoothly on all devices.",              imageSrc: "http://img.b2bpic.net/free-photo/stylish-businessman-with-arms-crossed_23-2147708158.jpg?_wi=1",              imageAlt: "Taylor Nguyen",              socialLinks: [
+              id: "3",              name: "Taylor Nguyen",              role: "Lead Developer",              description: "Taylor builds fast, responsive websites that work smoothly on all devices.",              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3ApTXhqfncLkMcGI7sOP1tda8U1/uploaded-1773625755579-hxlgyzgx.jpg",              imageAlt: "Taylor Nguyen",              socialLinks: [
                 { icon: Github, url: "https://github.com" },
                 { icon: Linkedin, url: "https://linkedin.com" }
               ]
             },
             {
-              id: "4",              name: "Morgan Rivera",              role: "Strategy Director",              description: "Morgan helps businesses get more traffic online through SEO and digital marketing strategies.",              imageSrc: "http://img.b2bpic.net/free-photo/smiling-businesswoman-holding-digital-tablet_1262-5758.jpg?_wi=1",              imageAlt: "Morgan Rivera",              socialLinks: [
+              id: "4",              name: "Morgan Rivera",              role: "Strategy Director",              description: "Morgan helps businesses get more traffic online through SEO and digital marketing strategies.",              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3ApTXhqfncLkMcGI7sOP1tda8U1/uploaded-1773625772809-ycvyxwvs.jpg",              imageAlt: "Morgan Rivera",              socialLinks: [
                 { icon: Twitter, url: "https://twitter.com" },
                 { icon: Linkedin, url: "https://linkedin.com" }
               ]

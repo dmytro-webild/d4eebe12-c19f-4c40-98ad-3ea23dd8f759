@@ -202,7 +202,7 @@ export default function LandingPage() {
               ]
             },
             {
-              id: "3",              name: "Jessica Rodriguez",              role: "Lead Developer",              description: "Full-stack engineer passionate about scalable architecture and clean code.",              imageSrc: "http://img.b2bpic.net/free-photo/stylish-businessman-with-arms-crossed_23-2147708158.jpg?_wi=1",              imageAlt: "Jessica Rodriguez",              socialLinks: [
+              id: "3",              name: "Taylor Nguyen",              role: "Lead Developer",              description: "Taylor builds fast, responsive websites that work smoothly on all devices.",              imageSrc: "http://img.b2bpic.net/free-photo/stylish-businessman-with-arms-crossed_23-2147708158.jpg?_wi=1",              imageAlt: "Taylor Nguyen",              socialLinks: [
                 { icon: Github, url: "https://github.com" },
                 { icon: Linkedin, url: "https://linkedin.com" }
               ]
